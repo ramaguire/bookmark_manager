@@ -4,6 +4,7 @@ gem 'sinatra', :git =>
 'git://github.com/sinatra/sinatra.git'
 gem 'sinatra-contrib'
 gem 'webrick'
+gem 'pg'
 
 group :test do
   gem 'capybara'
